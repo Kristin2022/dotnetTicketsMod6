@@ -1,0 +1,17 @@
+C:\Users\kontr\GitHubTicket\dotnetTicketsMod6\bin\Debug\net6.0\dotnetTicketsMod6.exe
+C:\Users\kontr\GitHubTicket\dotnetTicketsMod6\bin\Debug\net6.0\dotnetTicketsMod6.deps.json
+C:\Users\kontr\GitHubTicket\dotnetTicketsMod6\bin\Debug\net6.0\dotnetTicketsMod6.runtimeconfig.json
+C:\Users\kontr\GitHubTicket\dotnetTicketsMod6\bin\Debug\net6.0\dotnetTicketsMod6.dll
+C:\Users\kontr\GitHubTicket\dotnetTicketsMod6\bin\Debug\net6.0\dotnetTicketsMod6.pdb
+C:\Users\kontr\GitHubTicket\dotnetTicketsMod6\bin\Debug\net6.0\NLog.dll
+C:\Users\kontr\GitHubTicket\dotnetTicketsMod6\obj\Debug\net6.0\dotnetTicketsMod6.csproj.AssemblyReference.cache
+C:\Users\kontr\GitHubTicket\dotnetTicketsMod6\obj\Debug\net6.0\dotnetTicketsMod6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kontr\GitHubTicket\dotnetTicketsMod6\obj\Debug\net6.0\dotnetTicketsMod6.AssemblyInfoInputs.cache
+C:\Users\kontr\GitHubTicket\dotnetTicketsMod6\obj\Debug\net6.0\dotnetTicketsMod6.AssemblyInfo.cs
+C:\Users\kontr\GitHubTicket\dotnetTicketsMod6\obj\Debug\net6.0\dotnetTicketsMod6.csproj.CoreCompileInputs.cache
+C:\Users\kontr\GitHubTicket\dotnetTicketsMod6\obj\Debug\net6.0\dotnetTicketsMod6.csproj.CopyComplete
+C:\Users\kontr\GitHubTicket\dotnetTicketsMod6\obj\Debug\net6.0\dotnetTicketsMod6.dll
+C:\Users\kontr\GitHubTicket\dotnetTicketsMod6\obj\Debug\net6.0\refint\dotnetTicketsMod6.dll
+C:\Users\kontr\GitHubTicket\dotnetTicketsMod6\obj\Debug\net6.0\dotnetTicketsMod6.pdb
+C:\Users\kontr\GitHubTicket\dotnetTicketsMod6\obj\Debug\net6.0\dotnetTicketsMod6.genruntimeconfig.cache
+C:\Users\kontr\GitHubTicket\dotnetTicketsMod6\obj\Debug\net6.0\ref\dotnetTicketsMod6.dll
